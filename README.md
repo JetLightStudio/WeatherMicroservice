@@ -20,6 +20,7 @@ You can test your service by opening a browser and navigating to localhost, and 
     http://localhost/?lat=35.5&long=40.75
 
 The response will be a json that contains
+
 ![image](https://user-images.githubusercontent.com/24621701/44582078-32908600-a798-11e8-9ea8-143705d3b9f8.png)
 
 
